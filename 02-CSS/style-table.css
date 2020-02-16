@@ -1,0 +1,25 @@
+
+body {
+  background-color: gainsboro;
+}
+
+.table-pokemon {
+  background-color: white;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+}
+
+.table-pokemon > thead, th, td {
+  border: 1px solid black;
+}
+
+.table-pokemon-header {
+  background-color: gray;
+  font-size: 26px;
+  color: white;
+}
+
+.pokemon-image {
+  max-width: 40px;
+}

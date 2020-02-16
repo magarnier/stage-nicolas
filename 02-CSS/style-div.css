@@ -1,0 +1,27 @@
+
+body {
+  background-color: gainsboro;
+}
+.pokedex-section {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 20px;
+}
+
+.pokemon-card {
+  background-color: white;
+  border: 1px solid gray;
+  margin: 0 0 20px 10px;
+  width: calc(50% - 30px);
+  display: flex;
+}
+
+.pokemon-card-info {
+  margin: 10px 0 0 10px;
+  width: 100%;
+}
+
+.pokemon-image {
+  max-width: 40px;
+  margin: 10px 20px;
+}
