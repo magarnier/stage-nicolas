@@ -42,7 +42,7 @@ Tout ce qu'on a fait est sympa, mais:
       - un fichier `components/HelloWorld.vue`
       
  Dans ton terminal lances la commande suivante:
-  `vue-cli-service serve`
+  `npm run serve`
   
  Il va t'afficher des choes comme
   >  - Local:   http://localhost:8080/ 
